@@ -7,10 +7,8 @@ Some Parts of The Project is Not Fully Compeleted Or Under Construction Like:
 ## About
 This Project Is an App to Manage an Airport
 ## installing 
-```
-$ Have the Python Interpreter Installed
-```
-Download the Python Interpreter Here => <a href="https://python.org/">https://python.org/</a>
+- Have the Python Interpreter Installed
+( Download Here => <a href="https://python.org/">https://python.org/</a> )
 ## Setup
 ```
 $ pip install colorama
